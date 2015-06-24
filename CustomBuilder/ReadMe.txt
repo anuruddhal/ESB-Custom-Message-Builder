@@ -1,5 +1,4 @@
 Applies To       : WSO2 ESB 4.8.1
-Associated JIRA  : https://support.wso2.com/jira/browse/DGCITPROD-15
 
 
 DESCRIPTION
